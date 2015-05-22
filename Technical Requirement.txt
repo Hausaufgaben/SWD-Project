@@ -1,0 +1,33 @@
+Technical Requirement "Escape the Room"
+
+
+Summary:
+	Simply put, it is a game where the situation take place in a small room with the door locked from the outside and the player has to find a way to get out of the room by finding a key which might be hiding somewhere in the room.
+
+
+- Player must be able to move the camera angle which are flexible enough for player to be able to explore the whole room.
+- The room must have one exit door.
+- The room must be decorate with furnitures.
+- The key to get out of the room is locked within a safe.
+- Player needs to find the password to open the safe to get the key.
+- However, there are puzzles which player must solve in order to get the password.
+- These puzzles are chained together: player starts solving one puzzle and it will give away another clue to the next one until it reach the password to open the safe.
+- The theme of the game will be mystery and horror. It is not a ghost game but rather, the environment in the game make player feels uneasy and scared.
+- Player must have inventory.
+- Player can put available items picked up from the room and keep it in the inventory using mouse: drag and drop.(The inventory will always be visible while playing the game)
+- The items in player's inventory can also drag item from the inventory and drop it somewhere in the room to solve the puzzle.
+
+-The game will end when the player obtain the key and successfully get out of the room.
+- The soundtrack must give off a mysterous feeling and can played different tracks during the gameplay. The playlist will repeat itself if every track has been played once.
+- Each item must have a name attatched to it when player move the mouse over it.
+- When clicked, it pop-up a display window showing the information about the item: name, picture and describtion which is a clue of how to use it to solve a puzzle.
+
+
+
+
+
+
+
+
+
+
